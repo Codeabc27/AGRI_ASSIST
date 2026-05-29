@@ -1,0 +1,186 @@
+Tomato Plant Health & Disease Dataset (RAG Optimized)
+1. Tomato - Healthy
+What it is: A completely normal, thriving tomato plant.
+
+Symptoms & Appearance:
+
+Leaves: Even, solid green color with no yellowing, spots, or curling.
+
+Stems: Strong, upright, and clean.
+
+Flowers & Fruit: Bright yellow flowers that stay attached; smooth, evenly colored fruit with no cracks or dark patches.
+
+Best Conditions:
+
+Warm weather—70 to 85°F during the day, 60 to 70°F at night.
+
+Well-drained soil with a regular supply of moisture.
+
+Plenty of space between plants so air can flow and keep leaves dry.
+
+2. Tomato - Bacterial_spot
+What it is: A disease caused by bacteria that leaves ugly, scabby marks on leaves and fruit.
+
+Triggers: High humidity, hot weather (75 to 86°F), and rain splashing water from plant to plant.
+
+Symptoms:
+
+Leaves: Tiny, dark, water-soaked spots (smaller than an eighth of an inch) on the lower leaves. The spots often have a light yellow ring around them.
+
+Fruit: Small, raised, black blisters on green tomatoes. As the fruit grows, these turn into brown, rough, scabby patches.
+
+Treatment & Fixes:
+
+Throw away infected plant parts immediately (the bacteria can live in old plant debris).
+
+Do not water from above (overhead watering). Only work in the garden when plants are completely dry to stop the bacteria from spreading.
+
+Spray copper-based bactericides or organic sprays early in the season to prevent infection.
+
+3. Tomato - Early_blight
+What it is: A very common fungal disease that attacks older leaves first and creates a target pattern.
+
+Triggers: Warm, wet weather with lots of dew or frequent rain.
+
+Symptoms:
+
+Leaves: Dark brown or black circular spots starting on the lowest, oldest leaves. The spots look like a bullseye or target board because they have concentric rings inside them. Leaves eventually turn yellow and drop.
+
+Fruit & Stems: Sunken, dark spots with rings form where the stem meets the tomato fruit. Dark, long patches appear on the main stem near the soil line.
+
+Treatment & Fixes:
+
+Rotate your crops—do not plant tomatoes, peppers, or potatoes in the same spot for 2 to 3 years.
+
+Put a thick layer of mulch on the soil to stop fungal spores from splashing up onto the low leaves.
+
+Spray preventative fungicides (like copper or Chlorothalonil) before long rainy periods.
+
+4. Tomato - Late_blight
+What it is: A highly destructive water mold disease that spreads incredibly fast in the wind and can kill whole plants in days.
+
+Triggers: Cool, wet, foggy, and damp weather (60 to 70°F).
+
+Symptoms:
+
+Leaves: Large, irregular, dark-green to purplish-black patches that look water-soaked and expand quickly. In damp weather, a white, fuzzy growth appears on the underside of these spots.
+
+Fruit & Stems: Tomatoes get large, firm, greasy-looking, brown patches. Stems turn dark brown and the whole plant collapses.
+
+Treatment & Fixes:
+
+Pull up and completely destroy infected plants (bury or burn them—do not compost them). The disease needs living plant tissue to survive.
+
+Grow hybrid tomato varieties that are bred to resist late blight.
+
+Spray strong preventative copper fungicides immediately if late blight is reported in your area.
+
+5. Tomato - Leaf_Mold
+What it is: A fungal disease that targets leaf surfaces, most common in greenhouses and crowded gardens.
+
+Triggers: Very high humidity (above 85%) and mild temperatures.
+
+Symptoms:
+
+Leaves: The tops of older leaves develop pale green or yellow spots. Directly underneath, on the bottom of the leaf, a thick, velvety, olive-green or purplish-brown layer of fungus grows.
+
+Progression: Leaves quickly curl up, wither, and drop off, leaving the fruit bare.
+
+Treatment & Fixes:
+
+Use fans and space plants far apart to keep the humidity below 85%.
+
+Prune off the lower leaves to help air circulate through the bottom of the plant.
+
+Spray copper fungicides or biofungicides as soon as you see the first yellow spots.
+
+6. Tomato - Septoria_leaf_spot
+What it is: A fungal disease that causes hundreds of tiny spots on lower leaves, making them drop off.
+
+Triggers: Mild temperatures (60 to 80°F) and lots of rain or overhead sprinkler watering.
+
+Symptoms:
+
+Leaves: Tons of tiny, round spots (about an eighth of an inch wide) on lower leaves. The spots have dark brown edges and light gray or tan centers.
+
+Unique Sign: If you look closely at the tan centers, you can see tiny black dots that look like pimples. Leaves turn yellow and drop off from the bottom of the plant upward.
+
+Treatment & Fixes:
+
+Wait 3 years before planting tomatoes in the same soil. Keep the garden clear of weeds like horsenettle.
+
+Water at the base of the plant (drip irrigation) to keep leaves dry.
+
+Spray protectant fungicides at the very first sign of leaf spotting.
+
+7. Tomato - Target_Spot
+What it is: A fungal disease that causes small, sharply ringed circles on both leaves and fruit.
+
+Triggers: Warm weather (68 to 90°F), high humidity, and wet leaves.
+
+Symptoms:
+
+Leaves: Small, water-soaked dots on the upper leaf surface that grow into circles with very fine, sharp concentric rings inside them.
+
+Fruit: Small, slightly sunken, round pits on the tomato fruit. As the disease gets worse, the centers of these pits split and crack open.
+
+Treatment & Fixes:
+
+Stake and prune plants so they dry out quickly after rain.
+
+Switch between different types of fungicides so the fungus doesn't become immune (resistant) to the spray.
+
+8. Tomato - Tomato_mosaic_virus
+What it is: A highly contagious virus that is spread purely by touch and stunts plant growth.
+
+Triggers: Spread by hands, tools, clothing, and pruning shears. It can live for years in old plant roots, soil, and seeds.
+
+Symptoms:
+
+Leaves: A green and yellow mosaic pattern (mottled look) on the leaves. Leaves may look twisted, wrinkled, or turn into thin, stringy shapes like shoelaces.
+
+Plant & Fruit: The whole plant stops growing and looks stunted. Tomatoes ripen unevenly and get brown patches inside the fruit walls.
+
+Treatment & Fixes:
+
+Wash your hands with soap and dip tools in a disinfectant (like a 20% non-fat dry milk solution) before moving to a new plant.
+
+Buy certified virus-free seeds. If a plant gets infected, pull it up and throw it away immediately—do not compost it.
+
+9. Tomato - Tomato_Yellow_Leaf_Curl_Virus
+What it is: A destructive virus that stops fruit production and turns plants into dense, yellow bushes.
+
+Triggers: Spread entirely by a tiny insect called the Silverleaf Whitefly. It cannot be spread by touch.
+
+Symptoms:
+
+Leaves: The edges of the leaves roll sharply upward and inward. Leaves stay small, crumpled, and turn bright yellow between the green veins.
+
+Plant: The plant stops growing taller, becoming a tight, bushy mound that looks like a miniature bonsai or a head of broccoli. Flowers drop off, so no tomatoes grow.
+
+Treatment & Fixes:
+
+Control whiteflies using insecticidal soaps, neem oil, or reflective silver mulches that scare the bugs away.
+
+Plant hybrid tomato varieties that are naturally resistant to the virus.
+
+Pull up and destroy sick plants immediately so whiteflies can't carry the virus from them to healthy plants.
+
+10. Tomato - Two-spotted_spider_mite
+What it is: Tiny, spider-like pests that suck the sap out of leaves, creating fine webbing.
+
+Triggers: Hot, dry, and dusty weather. Their population can explode in just a few days.
+
+Symptoms:
+
+Leaves: Thousands of tiny white or yellow dots (stippling) across the top of the leaves where the mites are feeding.
+
+Webbing: Fine, silk-like spider webs covering the undersides of leaves and the growing tips of the plant. Leaves eventually turn bronze, dry up, and fall off.
+
+Treatment & Fixes:
+
+Spray the plants down with a strong blast of water to break their webs and knock them off. Keep pathways damp to reduce dust.
+
+Release beneficial bugs like predatory mites, which hunt and eat spider mites.
+
+Avoid harsh chemical bug sprays (like pyrethroids), because they kill the good bugs and actually cause spider mite numbers to skyrocket. Use horticultural oils instead.
