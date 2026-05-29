@@ -11,7 +11,7 @@
 
 ---
 
-## 🚜 Overview
+# 🚜 Overview
 
 AgriAssist is an AI-powered smart farming assistant platform that helps farmers and agriculture enthusiasts make data-driven decisions using Artificial Intelligence, Machine Learning, and Retrieval-Augmented Generation (RAG).
 
@@ -124,6 +124,8 @@ AGRI_ASSIST/
 │   ├── app.py
 │   └── pages/
 │
+├── frontend/assets/
+│
 ├── model/
 │   ├── train_cnn.py
 │   ├── train_model.py
@@ -147,9 +149,9 @@ AGRI_ASSIST/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/AgriAssist.git
+git clone https://github.com/Codeabc27/AGRI_ASSIST.git
 
-cd AgriAssist
+cd AGRI_ASSIST
 ```
 
 ---
@@ -245,22 +247,21 @@ python model/train_model.py
 
 # 📸 Screenshots
 
-Add screenshots inside:
+Store screenshots inside:
 
 ```text
 frontend/assets/
-```screenshots:
+```
 
-* Disease Detection Page
-frontend/assets/screenshot-disease-detection.png
-* AI Chatbot
-frontend/assets/screenshot-chatbot.png
-* Weather Dashboard
-frontend/assets/screenshot-weather-dashboard.png
-* Crop Recommendation
-frontend/assets/screenshot-crop-recommendation.png
-Agri_ai_chatbot
-frontend/assets/Screenshot-agri_ai_chat.png
+### Suggested Screenshots
+
+| Feature             | File Name                            |
+| ------------------- | ------------------------------------ |
+| Disease Detection   | `screenshot-disease-detection.png`   |
+| AI Chatbot          | `screenshot-chatbot.png`             |
+| Weather Dashboard   | `screenshot-weather-dashboard.png`   |
+| Crop Recommendation | `screenshot-crop-recommendation.png` |
+| Agri AI Chat        | `screenshot-agri-ai-chat.png`        |
 
 ---
 
@@ -295,9 +296,10 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-Developed by Your Name
+Developed by Codeabc27
 
-GitHub: https://github.com/your-username
+GitHub:
+https://github.com/Codeabc27
 
 ---
 
@@ -313,3 +315,4 @@ GitHub: https://github.com/your-username
 
 ```
 ```
+
