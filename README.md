@@ -1,14 +1,5 @@
 ````markdown
 # 🌾 AgriAssist
-
-![AgriAssist Banner](docs/assets/banner-placeholder.png)
-
-[![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-%2300BCC9.svg?logo=fastapi)](#)
-[![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit)](#)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow)](#)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](#)
-
 ---
 
 # 🚜 Overview
